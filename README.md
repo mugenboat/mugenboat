@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤓 Hi i'm boat nice to meet you !!<br>🔭 I’m currently looking for a React developer job.<br>🌱 I’m currently learning [ Express.js ,React.js ,Tailwind.js]<br>🍺 Drink hard Code harder 
+🤓 Hi i'm boat nice to meet you !!<br>🔭 I’m currently looking for a React developer job.<br>🌱 I’m currently learning [ Express.js ,React.js ,Tailwind.js]<br>🍺 Drink hard Code harder <br> ps.Most of the projects I've worked on, I've pushed to company Bitbucket so i don't have many project on github.
 
 
 ## 🌐 Socials:
